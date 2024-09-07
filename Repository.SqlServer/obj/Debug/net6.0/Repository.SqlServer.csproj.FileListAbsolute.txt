@@ -1,0 +1,17 @@
+C:\Users\110360781\source\repos\test\Repository.SqlServer\bin\Debug\net6.0\Repository.SqlServer.deps.json
+C:\Users\110360781\source\repos\test\Repository.SqlServer\bin\Debug\net6.0\Repository.SqlServer.dll
+C:\Users\110360781\source\repos\test\Repository.SqlServer\bin\Debug\net6.0\Repository.SqlServer.pdb
+C:\Users\110360781\source\repos\test\Repository.SqlServer\bin\Debug\net6.0\DTOs.dll
+C:\Users\110360781\source\repos\test\Repository.SqlServer\bin\Debug\net6.0\DTOs.pdb
+C:\Users\110360781\source\repos\test\Repository.SqlServer\obj\Debug\net6.0\Repository.SqlServer.csproj.AssemblyReference.cache
+C:\Users\110360781\source\repos\test\Repository.SqlServer\obj\Debug\net6.0\Repository.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\110360781\source\repos\test\Repository.SqlServer\obj\Debug\net6.0\Repository.SqlServer.AssemblyInfoInputs.cache
+C:\Users\110360781\source\repos\test\Repository.SqlServer\obj\Debug\net6.0\Repository.SqlServer.AssemblyInfo.cs
+C:\Users\110360781\source\repos\test\Repository.SqlServer\obj\Debug\net6.0\Repository.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\110360781\source\repos\test\Repository.SqlServer\obj\Debug\net6.0\Repository.SqlServer.dll
+C:\Users\110360781\source\repos\test\Repository.SqlServer\obj\Debug\net6.0\refint\Repository.SqlServer.dll
+C:\Users\110360781\source\repos\test\Repository.SqlServer\obj\Debug\net6.0\Repository.SqlServer.pdb
+C:\Users\110360781\source\repos\test\Repository.SqlServer\obj\Debug\net6.0\ref\Repository.SqlServer.dll
+C:\Users\110360781\source\repos\test\Repository.SqlServer\bin\Debug\net6.0\Repository.Interface.dll
+C:\Users\110360781\source\repos\test\Repository.SqlServer\bin\Debug\net6.0\Repository.Interface.pdb
+C:\Users\110360781\source\repos\test\Repository.SqlServer\obj\Debug\net6.0\Reposito.EE415BD5.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\110360781\source\repos\test\Repositories\bin\Release\net6.0\Repository.Interface.deps.json
+C:\Users\110360781\source\repos\test\Repositories\bin\Release\net6.0\Repository.Interface.dll
+C:\Users\110360781\source\repos\test\Repositories\bin\Release\net6.0\Repository.Interface.pdb
+C:\Users\110360781\source\repos\test\Repositories\bin\Release\net6.0\DTOs.dll
+C:\Users\110360781\source\repos\test\Repositories\bin\Release\net6.0\DTOs.pdb
+C:\Users\110360781\source\repos\test\Repositories\obj\Release\net6.0\Repository.Interface.csproj.AssemblyReference.cache
+C:\Users\110360781\source\repos\test\Repositories\obj\Release\net6.0\Repository.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\110360781\source\repos\test\Repositories\obj\Release\net6.0\Repository.Interface.AssemblyInfoInputs.cache
+C:\Users\110360781\source\repos\test\Repositories\obj\Release\net6.0\Repository.Interface.AssemblyInfo.cs
+C:\Users\110360781\source\repos\test\Repositories\obj\Release\net6.0\Repository.Interface.csproj.CoreCompileInputs.cache
+C:\Users\110360781\source\repos\test\Repositories\obj\Release\net6.0\Reposito.5512B6C8.Up2Date
+C:\Users\110360781\source\repos\test\Repositories\obj\Release\net6.0\Repository.Interface.dll
+C:\Users\110360781\source\repos\test\Repositories\obj\Release\net6.0\refint\Repository.Interface.dll
+C:\Users\110360781\source\repos\test\Repositories\obj\Release\net6.0\Repository.Interface.pdb
+C:\Users\110360781\source\repos\test\Repositories\obj\Release\net6.0\ref\Repository.Interface.dll
